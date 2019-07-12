@@ -108,3 +108,4 @@ virtualenv
 *.pyc 
 .vscode/
 .idea/
+/static 
